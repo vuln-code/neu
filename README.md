@@ -1,4 +1,5 @@
-# neu
-this is my first git repo
+# first
+its my first repo guys!
 <br>
-author : aditya
+author : adi
+
